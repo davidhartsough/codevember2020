@@ -8,7 +8,7 @@ Turn this into your own dope website.
 
 ## Steps
 
-1. [Download this template website as a .zip](https://github.com/davidhartsough/codevember2020/archive/master.zip) (but don't do this from your phone)
+1. [Download this template website as a .zip](https://github.com/davidhartsough/codevember2020/archive/main.zip) (but don't do this from your phone)
 1. Unpack/extract the project from the .zip file.
 1. Find the `index.html` file in the extracted folder, and double-click it to open it in your browser. The URL should look something like this in the tab's address bar: `File: /Users/steve/Downloads/codevember/index.html`. Lookin' good, right?!
 1. Download a text editor (AKA an IDE or Integrated Development Environment), assuming you don't already have one. Popular ones include: [Sublime](https://www.sublimetext.com/), [VS Code](https://code.visualstudio.com/), and [Atom](https://atom.io/). They're all great; any of them will do. Pick your favorite.
