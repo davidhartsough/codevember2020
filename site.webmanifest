@@ -1,6 +1,6 @@
 {
-  "name": "__TITLE__",
-  "short_name": "__SHORTNAME__",
+  "name": "Codevember 2020",
+  "short_name": "Codevember",
   "icons": [
     {
       "src": "/logo192.png",

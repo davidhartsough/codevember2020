@@ -4,20 +4,22 @@
 
 **Do it during November 2020.**
 
-Turn this into your own dope website.
+Code your own dope website.
 
-## Steps
+## 10 Simple Steps
 
-1. [Download this template website as a .zip](https://github.com/davidhartsough/codevember2020/archive/main.zip) (but don't do this from your phone)
-1. Unpack/extract the project from the .zip file.
-1. Find the `index.html` file in the extracted folder, and double-click it to open it in your browser. The URL should look something like this in the tab's address bar: `File: /Users/steve/Downloads/codevember/index.html`. Lookin' good, right?!
-1. Download a text editor (AKA an IDE or Integrated Development Environment), assuming you don't already have one. Popular ones include: [Sublime](https://www.sublimetext.com/), [VS Code](https://code.visualstudio.com/), and [Atom](https://atom.io/). They're all great; any of them will do. Pick your favorite.
-1. Open the entire folder (codevember2020) in your text editor.
-1. Look at the `index.html` file's code, and replace "Codevember 2020" on line 60 with your name. Ex: `<h1>Heat Wave Dave</h1>`.
-1. Go back to your browser tab that has the index.html file open and refresh the page. You should see your name on the website now.
-1. Congratulations! You've just started coding! Keep changing things and seeing what happens.
-1. Think of something cool to build. Start googling how to do it in HTML, CSS, and JS. (Googling how to do stuff is 90% of what most web developers do on a regular basis. You're virtually a web dev now.)
-1. Finally, once you've built your dope website, you're gonna wanna put it on the internet and share it with me and the rest of the world (wide web). So head on over to this cool website at https://app.netlify.com/drop — follow the instructions there and simply drag your entire folder (codevember2020) and drop it on the site. Once it's uploaded, share that URL with everybody! Especially me! (You can sign up for a Netlify account to keep the website alive and change the URL to something more reasonable than the randomly generated one you're given.)
+1. [Open this project in CodeSandbox](https://codesandbox.io/s/codevember-2020-2oi9p?file=/index.html)
+1. Sign in to CodeSandbox (with either Google or GitHub)
+1. Fork this project (by clicking the Fork button at the top right)
+1. Open the `index.html` file in the sandbox's code editor. (It should already be open for you.)
+1. Replace "Codevember 2020" on line 60 with your name
+   - Example: `<h1>Heat Wave Dave</h1>`
+   - Once you've finished typing, the browser preview window on the right should automatically reload and show your name
+1. Congratulations! You've just started coding! Keep changing things and seeing what happens. (You can begin simply by changing all code in this boilerplate that looks like `__TITLE__` or `__AUTHOR__` in `index.html` and `site.webmanifest` to whatever you'd like.)
+1. Think of something cool to build, and start Googling how to do it in HTML, CSS, and JS. (Googling how to do stuff is 90% of what most web developers do on a regular basis. You're virtually a web dev now!)
+1. [Join the Friends Worldwide Slack group](https://join.slack.com/t/friendsworldwide/shared_invite/zt-5kvvpz2a-mUWEut6Roud2C8frURrCcQ) to get help, discuss ideas, or just have a good time.
+1. Once you've built your dope website, you're gonna wanna share it! [Add your project to the list of Codevember 2020 projects](https://forms.gle/QRgKSpjKsjHYjPei7)
+1. [Check out everyone else's projects](https://docs.google.com/spreadsheets/d/1mtB901s23fh_NSshC3h2_gXz_TsvtTIJ9dbYcY5893w/edit?usp=sharing)
 
 ---
 

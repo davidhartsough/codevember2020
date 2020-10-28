@@ -30,6 +30,14 @@ h1 {
 header {
   text-align: center;
 }
+code {
+  font-family: source-code-pro, Menlo, Consolas, "Courier New", monospace;
+  color: #005c43;
+}
+.small,
+code {
+  font-size: 0.875rem;
+}
 #logo {
   display: block;
   width: 100%;
